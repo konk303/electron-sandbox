@@ -1,0 +1,22 @@
+{
+  "name": "electron-sandbox",
+  "version": "1.0.0",
+  "description": "walking thru electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konk303/electron-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konk303/electron-sandbox/issues"
+  },
+  "homepage": "https://github.com/konk303/electron-sandbox#readme",
+  "dependencies": {
+    "electron": "1.4.6"
+  }
+}
