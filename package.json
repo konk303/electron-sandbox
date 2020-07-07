@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/konk303/electron-sandbox#readme",
   "dependencies": {
-    "electron": "1.4.6"
+    "electron": "7.2.4"
   }
 }
